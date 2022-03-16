@@ -149,15 +149,16 @@ footer .logo-footer {
     margin-left: 1rem;
   }
 
-  footer .powered {
+ footer .powered {
     margin-top: -1rem;
-    margin-left: 12.8rem;
+    margin-left: 13.9rem;
   }
 
   footer .logo-footer {
-    width: 7rem;
-    height: 1.5rem;
-    margin-top: -0.4rem;
-    margin-left: 0.5rem;
+    width: 6rem;
+    height: 1.4rem;
+    margin-top: -0.2rem;
+    margin-right: 1rem;
+    margin-left: 0.1rem;
   }
 } ;
