@@ -141,6 +141,8 @@ footer .logo-footer {
   .footer {
     height: 5rem;
     font-size: 0.9rem;
+    bottom: 0;
+    position: fixed;
   }
 
   footer .copy {
