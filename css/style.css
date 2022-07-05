@@ -108,57 +108,11 @@ body {
   color: #e74c3c;
 }
 
-.footer {
-  width: 100%;
-  height: 6.5rem;
-  font-size: 1.1rem;
-  color: #000;
-  display: flex;
-  box-shadow: inset 0 2px 7px rgba(0, 0, 0, 0.5);
-  bottom: 0;
-  position: absolute;
-}
-
-footer .copy {
-  margin-left: 7.5rem;
-}
-
-footer .powered {
-  margin-top: -1.4rem;
-  margin-left: 64.5rem;
-}
-
-footer .logo-footer {
-  width: 9.3rem;
-  height: 2rem;
-  float: right;
-  margin-left: 0.3rem;
-  margin-top: -0.1rem;
-  cursor: pointer;
-}
-
 @media (max-width: 414px) {
   .footer {
     height: 5rem;
     font-size: 0.9rem;
     bottom: 0;
     position: fixed;
-  }
-
-  footer .copy {
-    margin-left: 1rem;
-  }
-
- footer .powered {
-    margin-top: -1rem;
-    margin-left: 13.9rem;
-  }
-
-  footer .logo-footer {
-    width: 6rem;
-    height: 1.4rem;
-    margin-top: -0.2rem;
-    margin-right: 1rem;
-    margin-left: 0.1rem;
   }
 } ;
