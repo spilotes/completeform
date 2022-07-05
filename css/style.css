@@ -71,19 +71,18 @@ body {
 
 .form button {
   background-color: #fc00ff;
-  border: 2px solid #fc00ff;
+  border: none;
   color: #fff;
   font-size: 0.87rem;
   width: 100%;
   border-radius: 0.62rem;
   padding: 0.62rem;
   cursor: pointer;
-  transition: all 300ms ease-in-out;
+  transition: all 500ms ease-in-out;
 }
 
 .form button:hover {
-  background-color: #00dbde;
-  color: #000;
+  background-color: #007fff;
 }
 
 /* Error and Success */
